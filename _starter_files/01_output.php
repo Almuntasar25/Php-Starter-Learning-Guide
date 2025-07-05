@@ -56,7 +56,7 @@ echo "Quote inside text: O\ 'Wow!' reilly";
     <h2>Hi<?php print " PHP"; ?></h2>
     <!-- The semicolon is only allowed to be omitted after a statement
       if it is immediately followed by a closing PHP tag ?>. -->
-      <h4>Home <?= 'page' ?></h4>
+    <h4>Home <?= 'page' ?></h4>
 
 </body>
 </html>
