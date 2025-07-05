@@ -1,4 +1,7 @@
 <?php
+
+
+
 /*
  * PHP Output Functions Tutorial
  * This file demonstrates various ways to output content in PHP including:
@@ -15,7 +18,7 @@
 /* ------- Outputting Content ------- */
 
 // Echo - Output strings, numbers, html, etc
-echo 'Hello';
+echo 'Hello'; 
 echo 123;
 echo '<h1>Hello</h1>';
 
